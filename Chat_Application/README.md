@@ -1,4 +1,4 @@
-## 💬 Simple console Client Chat Application using Python
+##  Simple console Client Chat Application using Python
 This is a Python-based Simple console client chat application built using socket programming and multithreading.  
 The project follows a client–server architecture where multiple clients can connect to a server and communicate with each other in real time.
 
