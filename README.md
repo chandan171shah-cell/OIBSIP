@@ -1,4 +1,4 @@
-# Repo details
+# Repository Details :-
 This repository is for below python project.
 
 ## Project 1 :=  🧮 BMI Calculator using Python
